@@ -3,8 +3,8 @@
     "type": "folder",
     "children": [
       {
-        "name": "Surface Web",
-        "type": "folder",
+        "name": "Step/Phase 1",
+        "type": "url",
         "children": [
           {
             "name": "Keywords Searched",
@@ -178,8 +178,8 @@
         ]
       },
       {
-        "name": "Dark Web",
-        "type": "folder",
+        "name": "Step/Phase 2",
+        "type": "url",
         "children": [
           {
             "name": "Have access to the Dark Web?",
@@ -883,8 +883,8 @@
         ]
       },
       {
-        "name": "Investigative Tools",
-        "type": "folder",
+        "name": "Step/Phase 3",
+        "type": "url",
         "children":[
           {
             "name": "SANS Google Dorks Cheat Sheet",
@@ -956,8 +956,8 @@
         ]
       },
       {
-        "name": "Forms",
-        "type": "folder",
+        "name": "Step/Phase 4",
+        "type": "url",
         "children":[
           {
             "name": "DWIF Evaluation Form",
