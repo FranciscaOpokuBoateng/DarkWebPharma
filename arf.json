@@ -1,10 +1,27 @@
 {
-    "name": "DWIF",
+    "name": "Dark Pharm Tool",
     "type": "folder",
     "children": [
       {
         "name": "Step/Phase 1",
-        "type": "url"
+        "type": "folder",
+        "children": [
+          {
+            "name": "Installing TOR",
+            "type": "url",
+            "url": "dsu.edu"
+            },
+          {
+            "name": "Installing I2P ",
+            "type": "url",
+            "url": "dsu.edu"
+           },
+          {
+            "name": "TAILS",
+            "type": "url",
+            "url": "dsu.edu"
+            }
+          ]
         },
       {
         "name": "Step/Phase 2",
