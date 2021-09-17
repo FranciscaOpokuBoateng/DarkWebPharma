@@ -5,35 +5,41 @@
       {
         "name": "Step/Phase 1",
         "type": "folder",
-        "children": [
+        "children": [   
           {
-            "name": "Installing TOR",
-            "type": "url",
-            "url": "dsu.edu"
+            "name": "Accessing the Dark Web",
+            "type": "folder",
+            "children": [
+            {
+              "name": "Installing TOR",
+              "type": "url",
+              "url": "dsu.edu"
             },
-          {
-            "name": "Installing I2P ",
-            "type": "url",
-            "url": "dsu.edu"
-           },
-          {
-            "name": "TAILS",
-            "type": "url",
-            "url": "dsu.edu"
+            {
+              "name": "Installing I2P ",
+              "type": "url",
+              "url": "dsu.edu"
+             },
+            {
+              "name": "TAILS",
+              "type": "url",
+              "url": "dsu.edu"
             }
           ]
-        },
-      {
+        }
+        ]
+      },
+       {
         "name": "Step/Phase 2",
         "type": "url"
        },
-      {
+       {
         "name": "Step/Phase 3",
         "type": "url"
-        },
-      {
+       },
+       {
         "name": "Step/Phase 4",
         "type": "url"
         }
-    ]
-  }
+      ]
+    }
