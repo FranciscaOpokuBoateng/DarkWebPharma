@@ -18,12 +18,12 @@
             {
               "name": "Installing I2P ",
               "type": "url",
-              "url": "dsu.edu"
+              "url": "https://geti2p.net/en/"
              },
             {
               "name": "TAILS",
               "type": "url",
-              "url": "dsu.edu"
+              "url": "https://tails.boum.org/about/index.en.html"
             }
           ]
         }
