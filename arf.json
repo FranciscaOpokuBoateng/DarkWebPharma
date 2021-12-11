@@ -13,12 +13,12 @@
             {
               "name": "Installing TOR",
               "type": "url",
-              "url": "https://www.torproject.org/"
+              "url": "https://www.torproject.org"
             },
             {
               "name": "Installing I2P ",
               "type": "url",
-              "url": "https://geti2p.net/en/"
+              "url": "https://geti2p.net/en"
              },
             {
               "name": "TAILS",
