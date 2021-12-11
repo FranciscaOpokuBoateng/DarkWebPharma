@@ -22,7 +22,7 @@ body {
   right: 0;
   width: 330px;
   font-size: 11px;
-  color: #000;
+  color: rgb(0, 0, 0);
 }
 
 .node {
