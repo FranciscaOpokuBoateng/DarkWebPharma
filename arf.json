@@ -1,25 +1,30 @@
 {
-    "name": "DWPIT",
-    "type": "folder",
-    "children": [
-      {
-        "name": "Step/Phase 1",
-        "type": "folder",
-        "children": [   
-          {
-            "name": "Accessing the Dark Web",
-            "type": "folder",
-            "children": [
+  "name": "DWPIT",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Step/Phase 1",
+      "type": "folder",
+      "children": [
+        {
+          "name": "How to Access the Dark Web",
+          "type": "folder",
+          "children": [
             {
               "name": "Installing TOR",
               "type": "url",
               "url": "https://www.torproject.org"
             },
             {
+              "name": "Download ZeroNet",
+              "type": "url",
+              "url": "https://zeronet.io/"
+            },
+            {
               "name": "Installing I2P ",
               "type": "url",
               "url": "https://geti2p.net/en"
-             },
+            },
             {
               "name": "TAILS",
               "type": "url",
@@ -27,19 +32,222 @@
             }
           ]
         }
-        ]
-      },
-       {
-        "name": "Step/Phase 2",
-        "type": "url"
-       },
-       {
-        "name": "Step/Phase 3",
-        "type": "url"
-       },
-       {
-        "name": "Step/Phase 4",
-        "type": "url"
+      ]
+    },
+    {
+      "name": "Step/Phase 2",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Search Engines",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Ahmia",
+              "type": "url",
+              "url": "https://ahmia.fi/"
+            },
+            {
+              "name": "Tor66",
+              "type": "url",
+              "url": "http://tor66sezptuu2nta.onion/"
+            },
+            {
+              "name": "Visitor Search Engine",
+              "type": "url",
+              "url": "http://visitorfi5kl7q7i.onion/search/"
+            },
+            {
+              "name": "Installing TOR",
+              "type": "url",
+              "url": "https://www.torproject.org"
+            }
+          ]
+        },
+        {
+          "name": "Private Forums",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Chat Rooms",
+              "type": "url",
+              "url": "https://torhidden.wiki/chat-rooms"
+            },
+            {
+              "name": "TOR Hidden Wiki Forum",
+              "type": "url",
+              "url": "http://wikiw2godl6vm5amb4sij47rwynnrmqenwddykzt3fwpbx6p34sgb7yd.onion/"
+            },
+            {
+              "name": "Dark.fail",
+              "type": "url",
+              "url": "http://darkfailllnkf4vf.onion/"
+            },
+            {
+              "name": "Installing TOR",
+              "type": "url",
+              "url": "https://www.torproject.org"
+            }
+          ]
+        },
+        {
+          "name": "Online Dark net Libraries",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Deep Onion Directory",
+              "type": "url",
+              "url": "http://deeeepv4bfndyatwkdzeciebqcwwlvgqa6mofdtsvwpon4elfut7lfqd.onion/Onions/409"
+            },
+            {
+              "name": "DeepWebLinks",
+              "type": "url",
+              "url": "https://torhidden.wiki/deep-web-search-engines-onion-links-2021"
+            },
+            {
+              "name": "Installing TOR",
+              "type": "url",
+              "url": "https://www.torproject.org"
+            },
+            {
+              "name": "Installing TOR",
+              "type": "url",
+              "url": "https://www.torproject.org"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Step/Phase 3",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Tools to Validate Data",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Installing TOR",
+              "type": "url",
+              "url": "https://www.torproject.org"
+            },
+            {
+              "name": "Installing TOR",
+              "type": "url",
+              "url": "https://www.torproject.org"
+            },
+            {
+              "name": "Installing TOR",
+              "type": "url",
+              "url": "https://www.torproject.org"
+            },
+            {
+              "name": "Installing TOR",
+              "type": "url",
+              "url": "https://www.torproject.org"
+            }
+          ]
+        },
+        {
+          "name": "Options for Checking Informtaon",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Installing TOR",
+              "type": "url",
+              "url": "https://www.torproject.org"
+            },
+            {
+              "name": "Installing TOR",
+              "type": "url",
+              "url": "https://www.torproject.org"
+            },
+            {
+              "name": "Installing TOR",
+              "type": "url",
+              "url": "https://www.torproject.org"
+            },
+            {
+              "name": "Installing TOR",
+              "type": "url",
+              "url": "https://www.torproject.org"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Step/Phase 4",
+      "type": "folder",
+      "children": [
+        {
+          "name": "SANS Google Dorks Cheat Sheet",
+          "type": "url",
+          "url": "https://www.sans.org/security-resources/GoogleCheatSheet.pdf"
+        },
+        {
+          "name": "Search.org ISP Resource List",
+          "type": "url",
+          "url": "https://www.search.org/resources/isp-list/#participants-list-1"
+        },
+        {
+          "name": "IACA Dark Web Investigation Support",
+          "type": "url",
+          "url": "https://iaca-darkweb-tools.com/"
+        },
+        {
+          "name": "Maltego",
+          "type": "url",
+          "url": "https://www.maltego.com/"
+        },
+        {
+          "name": "Have I been Pawned",
+          "type": "url",
+          "url": "https://haveibeenpwned.com/"
+        },
+        {
+          "name": "DeHashed",
+          "type": "url",
+          "url": "https://dehashed.com/"
+        },
+        {
+          "name": "Email Address Verify",
+          "type": "url",
+          "url": "https://verify-email.org/"
+        },
+        {
+          "name": "Domain Name Search",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Whois Lookup",
+              "type": "url",
+              "url": "https://whois.domaintools.com/"
+            },
+            {
+              "name": "ViewDNS.info",
+              "type": "url",
+              "url": "https://viewdns.info/"
+            },
+            {
+              "name": "ARIN",
+              "type": "url",
+              "url": "https://whois.arin.net/ui/advanced.jsp"
+            },
+            {
+              "name": "Website Analyitcs",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Amazon Alexa Site Stats",
+                  "type": "url",
+                  "url": "https://www.alexa.com/siteinfo"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
+  ]
+}
