@@ -33,7 +33,7 @@ body {
   cursor: pointer;
   fill: rgba(131, 161, 190, 0.781);
   stroke: rgb(37, 36, 36);
-  stroke-width: 1px;
+  stroke-width: 2px;
 }
 
 .node text {
