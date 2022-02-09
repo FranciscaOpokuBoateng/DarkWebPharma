@@ -123,133 +123,131 @@
           ]
         }
       ]
-        },
+    },
+    {
+      "name": "Step/Phase 3",
+      "type": "folder",
+      "children": [
         {
-          "name": "Step/Phase 3",
+          "name": "Tools to Validate Data",
           "type": "folder",
           "children": [
             {
-              "name": "Tools to Validate Data",
-              "type": "folder",
-              "children": [
-                {
-                  "name": "Installing TOR",
-                  "type": "url",
-                  "url": "https://www.torproject.org"
-                },
-                {
-                  "name": "Installing TOR",
-                  "type": "url",
-                  "url": "https://www.torproject.org"
-                },
-                {
-                  "name": "Installing TOR",
-                  "type": "url",
-                  "url": "https://www.torproject.org"
-                },
-                {
-                  "name": "Installing TOR",
-                  "type": "url",
-                  "url": "https://www.torproject.org"
-                }
-              ]
+              "name": "Installing TOR",
+              "type": "url",
+              "url": "https://www.torproject.org"
             },
             {
-              "name": "Options for Checking Informtaon",
-              "type": "folder",
-              "children": [
-                {
-                  "name": "Installing TOR",
-                  "type": "url",
-                  "url": "https://www.torproject.org"
-                },
-                {
-                  "name": "Installing TOR",
-                  "type": "url",
-                  "url": "https://www.torproject.org"
-                },
-                {
-                  "name": "Installing TOR",
-                  "type": "url",
-                  "url": "https://www.torproject.org"
-                },
-                {
-                  "name": "Installing TOR",
-                  "type": "url",
-                  "url": "https://www.torproject.org"
-                }
-              ]
+              "name": "Installing TOR",
+              "type": "url",
+              "url": "https://www.torproject.org"
+            },
+            {
+              "name": "Installing TOR",
+              "type": "url",
+              "url": "https://www.torproject.org"
+            },
+            {
+              "name": "Installing TOR",
+              "type": "url",
+              "url": "https://www.torproject.org"
             }
           ]
         },
         {
-          "name": "Step/Phase 4",
+          "name": "Options for Checking Informtaon",
           "type": "folder",
           "children": [
             {
-              "name": "SANS Google Dorks Cheat Sheet",
+              "name": "Installing TOR",
               "type": "url",
-              "url": "https://www.sans.org/security-resources/GoogleCheatSheet.pdf"
+              "url": "https://www.torproject.org"
             },
             {
-              "name": "Search.org ISP Resource List",
+              "name": "Installing TOR",
               "type": "url",
-              "url": "https://www.search.org/resources/isp-list/#participants-list-1"
+              "url": "https://www.torproject.org"
             },
             {
-              "name": "IACA Dark Web Investigation Support",
+              "name": "Installing TOR",
               "type": "url",
-              "url": "https://iaca-darkweb-tools.com/"
+              "url": "https://www.torproject.org"
             },
             {
-              "name": "Maltego",
+              "name": "Installing TOR",
               "type": "url",
-              "url": "https://www.maltego.com/"
+              "url": "https://www.torproject.org"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Step/Phase 4",
+      "type": "folder",
+      "children": [
+        {
+          "name": "SANS Google Dorks Cheat Sheet",
+          "type": "url",
+          "url": "https://www.sans.org/security-resources/GoogleCheatSheet.pdf"
+        },
+        {
+          "name": "Search.org ISP Resource List",
+          "type": "url",
+          "url": "https://www.search.org/resources/isp-list/#participants-list-1"
+        },
+        {
+          "name": "IACA Dark Web Investigation Support",
+          "type": "url",
+          "url": "https://iaca-darkweb-tools.com/"
+        },
+        {
+          "name": "Maltego",
+          "type": "url",
+          "url": "https://www.maltego.com/"
+        },
+        {
+          "name": "Have I been Pawned",
+          "type": "url",
+          "url": "https://haveibeenpwned.com/"
+        },
+        {
+          "name": "DeHashed",
+          "type": "url",
+          "url": "https://dehashed.com/"
+        },
+        {
+          "name": "Email Address Verify",
+          "type": "url",
+          "url": "https://verify-email.org/"
+        },
+        {
+          "name": "Domain Name Search",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Whois Lookup",
+              "type": "url",
+              "url": "https://whois.domaintools.com/"
             },
             {
-              "name": "Have I been Pawned",
+              "name": "ViewDNS.info",
               "type": "url",
-              "url": "https://haveibeenpwned.com/"
+              "url": "https://viewdns.info/"
             },
             {
-              "name": "DeHashed",
+              "name": "ARIN",
               "type": "url",
-              "url": "https://dehashed.com/"
+              "url": "https://whois.arin.net/ui/advanced.jsp"
             },
             {
-              "name": "Email Address Verify",
-              "type": "url",
-              "url": "https://verify-email.org/"
-            },
-            {
-              "name": "Domain Name Search",
+              "name": "Website Analyitcs",
               "type": "folder",
               "children": [
                 {
-                  "name": "Whois Lookup",
+                  "name": "Amazon Alexa Site Stats",
                   "type": "url",
-                  "url": "https://whois.domaintools.com/"
-                },
-                {
-                  "name": "ViewDNS.info",
-                  "type": "url",
-                  "url": "https://viewdns.info/"
-                },
-                {
-                  "name": "ARIN",
-                  "type": "url",
-                  "url": "https://whois.arin.net/ui/advanced.jsp"
-                },
-                {
-                  "name": "Website Analyitcs",
-                  "type": "folder",
-                  "children": [
-                    {
-                      "name": "Amazon Alexa Site Stats",
-                      "type": "url",
-                      "url": "https://www.alexa.com/siteinfo"
-                    }
-                  ]
+                  "url": "https://www.alexa.com/siteinfo"
                 }
               ]
             }
@@ -257,3 +255,5 @@
         }
       ]
     }
+  ]
+}

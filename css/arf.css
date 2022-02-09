@@ -1,5 +1,5 @@
 body {
-  background-color: #afacac;
+  background-color: #d8d2d2ab;
   font-size: 14px;
   font-family: "Helvetica Neue", Helvetica;
 }
@@ -39,10 +39,11 @@ body {
 .node text {
   font-size: 12px;
   fill: rgb(0, 0, 0);
+  text-underline-position: below;
 }
 
 path.link {
   fill: none;
-  stroke: rgb(150, 17, 17);
-  stroke-width: 3px;
+  stroke: rgb(141, 69, 69);
+  stroke-width: 2px;
 }
