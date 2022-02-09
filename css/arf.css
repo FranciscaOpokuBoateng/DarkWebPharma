@@ -33,13 +33,14 @@ body {
   cursor: pointer;
   fill: #fff;
   stroke: rgb(17, 16, 16);
-  stroke-width: 1.5px;
+  stroke-width: 2.5px;
 }
 
 .node text {
   font-size: 12px;
   fill: rgb(0, 0, 0);
-  text-underline-position: below;
+  text-orientation: upright;
+  text-overflow: ellipsis;
 }
 
 path.link {
