@@ -1,5 +1,5 @@
 body {
-  background-color: #ffffff;
+  background-color: #afacac;
   font-size: 14px;
   font-family: "Helvetica Neue", Helvetica;
 }
@@ -32,7 +32,7 @@ body {
 .node circle {
   cursor: pointer;
   fill: #fff;
-  stroke: steelblue;
+  stroke: rgb(17, 16, 16);
   stroke-width: 1.5px;
 }
 
@@ -43,6 +43,6 @@ body {
 
 path.link {
   fill: none;
-  stroke: #ccc;
-  stroke-width: 1px;
+  stroke: rgb(150, 17, 17);
+  stroke-width: 3px;
 }
