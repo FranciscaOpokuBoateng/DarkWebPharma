@@ -159,15 +159,15 @@
       ]
     },
     {
-      "name": "Step/Phase 3",
+      "name": "Step 3: Information Processing",
       "type": "folder",
       "children": [
         {
-          "name": "Information Processing Tools",
+          "name": "Some Processing Tools",
           "type": "folder",
           "children": [
             {
-              "name": "Meltago",
+              "name": "Maltego",
               "type": "url",
               "url": "https://www.maltego.com/"
             },
@@ -189,7 +189,7 @@
           ]
         },
         {
-          "name": "Options for Checking Informtaon",
+          "name": "Options for Checking Information",
           "type": "folder",
           "children": [
             {
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "name": "Step/Phase 4",
+      "name": "Step 4: Investigative Tools",
       "type": "folder",
       "children": [
         {
