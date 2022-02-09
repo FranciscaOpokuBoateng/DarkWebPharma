@@ -117,11 +117,6 @@
                   "name": "DeepWebLinks",
                   "type": "url",
                   "url": "https://torhidden.wiki/dark-net-search-engines"
-                },
-                {
-                  "name": "The Hidden Wiki",
-                  "type": "url",
-                  "url": "https://thehidden.wiki/"
                 }
               ]
             },
