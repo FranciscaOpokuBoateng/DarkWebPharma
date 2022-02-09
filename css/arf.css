@@ -1,5 +1,5 @@
 body {
-  background-color: #d8d2d2ab;
+  background-color: #a09e9eab;
   font-size: 14px;
   font-family: "Helvetica Neue", Helvetica;
 }
@@ -31,13 +31,15 @@ body {
 
 .node circle {
   cursor: pointer;
-  fill: #fff;
-  stroke: rgb(17, 16, 16);
-  stroke-width: 2.5px;
+  fill: rgba(131, 161, 190, 0.781);
+  stroke: rgb(46, 43, 43);
+  stroke-width: 1.5px;
 }
 
 .node text {
   font-size: 12px;
+  font-family: sans-serif;
+  font-weight: bold;
   fill: rgb(0, 0, 0);
   text-orientation: upright;
   text-overflow: ellipsis;
@@ -47,4 +49,5 @@ path.link {
   fill: none;
   stroke: rgb(141, 69, 69);
   stroke-width: 2px;
+  stroke-linecap: square;
 }
