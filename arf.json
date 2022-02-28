@@ -53,247 +53,270 @@
           "type": "folder",
           "children": [
             {
-              "name": "Ahmia",
-              "type": "url",
-              "url": "http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/"
-            },
-            {
-              "name": "DuckDuckGo",
-              "type": "url",
-              "url": "https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/"
-            },
-            {
-              "name": "Torch",
-              "type": "url",
-              "url": "http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/cgi-bin/omega/omega"
-            },
-            {
-              "name": "Onion Index",
-              "type": "url",
-              "url": "http://oniondxjxs2mzjkbz7ldlflenh6huksestjsisc3usxht3wqgk6a62yd.onion/"
-            },
-            {
-              "name": "OnionLand",
-              "type": "url",
-              "url": "http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion/"
-            }
-          ]
-        },
-        {
-          "name": "Private Forums",
-          "type": "folder",
-          "children": [
-            {
-              "name": "Chat Rooms",
-              "type": "url",
-              "url": "https://torhidden.wiki/chat-rooms"
-            },
-            {
-              "name": "Ramble",
-              "type": "url",
-              "url": "http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion/f/AskRamble/2674/covid-vaccine-the-secret-is-midnight-at-least-for-me-will-it"
-            },
-            {
-              "name": "TOR Hidden Wiki Forum",
-              "type": "url",
-              "url": "http://wikiw2godl6vm5amb4sij47rwynnrmqenwddykzt3fwpbx6p34sgb7yd.onion/"
-            },
-            {
-              "name": "Raddle",
-              "type": "url",
-              "url": "http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/"
-            },
-            {
-              "name": "Endchan",
-              "type": "url",
-              "url": "http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/"
-            }
-          ]
-        },
-        {
-          "name": "Online Darknet Libraries",
-          "type": "folder",
-          "children": [
-            {
-              "name": "TheHidden Wiki",
-              "type": "url",
-              "url": "https://thehidden.wiki/"
-            },
-            {
-              "name": "DeepWebLinks",
-              "type": "url",
-              "url": "https://torhidden.wiki/dark-net-search-engines"
-            }
-          ]
-        },
-        {
-          "name": "Covid-19 Vaccines Darkmarkets",
-          "type": "folder",
-          "children": [
-            {
-              "name": "Dark Amazom",
-              "type": "url",
-              "url": "http://amazonv6v4q25koqozui2daubqeb3hr57vqaa2ieoq67umpstqqklhad.onion/product-tag/vaccine/"
-            },
-            {
-              "name": "Steriod King",
-              "type": "url",
-              "url": "http://skingykcpkkenvhhlg5vdsitvdoefkbo7frfiv3gscue66ynvuqq7bid.onion/?product=moderna-covid-19-vaccine"
-            },
-            {
-              "name": "Big Pluggie Market",
-              "type": "url",
-              "url": "http://bxp6oh6lpmj3dzxwr5wjeezr5xlsm4cum5mbuzv3diw2ykpzqutmlcad.onion/shop/buy-10-moderna-mrna-1273-covid-19-vaccine-2000/"
-            },
-            {
-              "name": "WainPharma",
-              "type": "url",
-              "url": "http://gukm6235mhmwbauv3xtfz3llqm22uaaac57pmqnauxtqr67otxymx7yd.onion/shop/covid-19/astrazeneca-covid-19-vaccine/astrazeneca-covid-19-vaccine-10-shots/"
-            },
-            {
-              "name": "Dbay",
-              "type": "url",
-              "url": "http://dbay4btfm54y3e3i4genrwd6tnt5rsyhla3j3ml5rwaqre7k37hglcid.onion/product/astrazeneca-vaccine-covid-19/"
-            },
-            {
-              "name": "Covid-19 Vaccine",
-              "type": "url",
-              "url": "http://piq2xfs5gkfk2lok5a4bwszsgqdxlekghhd2mjcldpq2loxgqg3tyaid.onion/"
-            },
-            {
-              "name": "Phills Shop",
-              "type": "url",
-              "url": "http://jx4lzyctp4h6yyj4bc2qemm3ce4ssxo3ftsu3ajhzdc2tipzz4gpe5id.onion/shop/covid-19/pfizer-biontech-covid-19-vaccine/"
-            },
-            {
-              "name": "MillHill Covid-19 Pharam",
-              "type": "url",
-              "url": "http://vqyn7nsgb237ju7eqfa7zqog2xwh266fr5aird2cnetiimdpb6dkhdqd.onion/tag/order-sinopharm-covid-19-vaccine/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Step 3: Information Processing",
-      "type": "folder",
-      "children": [
-        {
-          "name": "Some Processing Tools",
-          "type": "folder",
-          "children": [
-            {
-              "name": "Maltego",
-              "type": "url",
-              "url": "https://www.maltego.com/"
-            },
-            {
-              "name": "Recorded Future",
-              "type": "url",
-              "url": "https://www.recordedfuture.com/"
-            },
-            {
-              "name": "OSINT Combine Data Visualization",
-              "type": "url",
-              "url": "https://osintcombine.tools/"
-            },
-            {
-              "name": "CheckUsernames",
-              "type": "url",
-              "url": "https://checkusernames.com/"
-            }
-          ]
-        },
-        {
-          "name": "Options for Checking Information",
-          "type": "folder",
-          "children": [
-            {
-              "name": "Google Dork",
-              "type": "url",
-              "url": "https://www.maltego.com/blog/using-google-dorks-to-support-your-open-source-intelligence-investigations/"
-            },
-            {
-              "name": "Reddit Post Analyser",
-              "type": "url",
-              "url": "https://www.osintcombine.com/reddit-post-analyser"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Step 4: Investigative Tools",
-      "type": "folder",
-      "children": [
-        {
-          "name": "SANS Google Dorks Cheat Sheet",
-          "type": "url",
-          "url": "https://www.sans.org/security-resources/GoogleCheatSheet.pdf"
-        },
-        {
-          "name": "Search.org ISP Resource List",
-          "type": "url",
-          "url": "https://www.search.org/resources/isp-list/#participants-list-1"
-        },
-        {
-          "name": "IACA Dark Web Investigation Support",
-          "type": "url",
-          "url": "https://iaca-darkweb-tools.com/"
-        },
-        {
-          "name": "KnowEm",
-          "type": "url",
-          "url": "https://knowem.com/"
-        },
-        {
-          "name": "Have I been Pawned",
-          "type": "url",
-          "url": "https://haveibeenpwned.com/"
-        },
-        {
-          "name": "DeHashed",
-          "type": "url",
-          "url": "https://dehashed.com/"
-        },
-        {
-          "name": "Email Address Verify",
-          "type": "url",
-          "url": "https://verify-email.org/"
-        },
-        {
-          "name": "Domain Name Search",
-          "type": "folder",
-          "children": [
-            {
-              "name": "Whois Lookup",
-              "type": "url",
-              "url": "https://whois.domaintools.com/"
-            },
-            {
-              "name": "ViewDNS.info",
-              "type": "url",
-              "url": "https://viewdns.info/"
-            },
-            {
-              "name": "ARIN",
-              "type": "url",
-              "url": "https://whois.arin.net/ui/advanced.jsp"
-            },
-            {
-              "name": "Website Analyitcs",
+              "name": "Reddit",
               "type": "folder",
               "children": [
                 {
-                  "name": "Amazon Alexa Site Stats",
+                  "name": "Reddit Deep Web",
                   "type": "url",
-                  "url": "https://www.alexa.com/siteinfo"
+                  "url": "https://www.reddit.com/r/deepweb/"
+                },
+                {
+                  "name": "Reddit Onions",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/onions/"
+                },
+                {
+                  "name": "Reddit Darknet",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/darknet/"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "Ahmia",
+          "type": "url",
+          "url": "http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/"
+        },
+        {
+          "name": "DuckDuckGo",
+          "type": "url",
+          "url": "https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/"
+        },
+        {
+          "name": "Torch",
+          "type": "url",
+          "url": "http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/cgi-bin/omega/omega"
+        },
+        {
+          "name": "Onion Index",
+          "type": "url",
+          "url": "http://oniondxjxs2mzjkbz7ldlflenh6huksestjsisc3usxht3wqgk6a62yd.onion/"
+        },
+        {
+          "name": "OnionLand",
+          "type": "url",
+          "url": "http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion/"
+        }
+      ]
+    },
+    {
+      "name": "Private Forums",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Chat Rooms",
+          "type": "url",
+          "url": "https://torhidden.wiki/chat-rooms"
+        },
+        {
+          "name": "Ramble",
+          "type": "url",
+          "url": "http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion/f/AskRamble/2674/covid-vaccine-the-secret-is-midnight-at-least-for-me-will-it"
+        },
+        {
+          "name": "TOR Hidden Wiki Forum",
+          "type": "url",
+          "url": "http://wikiw2godl6vm5amb4sij47rwynnrmqenwddykzt3fwpbx6p34sgb7yd.onion/"
+        },
+        {
+          "name": "Raddle",
+          "type": "url",
+          "url": "http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/"
+        },
+        {
+          "name": "Endchan",
+          "type": "url",
+          "url": "http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/"
+        }
+      ]
+    },
+    {
+      "name": "Online Darknet Libraries",
+      "type": "folder",
+      "children": [
+        {
+          "name": "TheHidden Wiki",
+          "type": "url",
+          "url": "https://thehidden.wiki/"
+        },
+        {
+          "name": "DeepWebLinks",
+          "type": "url",
+          "url": "https://torhidden.wiki/dark-net-search-engines"
+        }
+      ]
+    },
+    {
+      "name": "Covid-19 Vaccines Darkmarkets",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Dark Amazom",
+          "type": "url",
+          "url": "http://amazonv6v4q25koqozui2daubqeb3hr57vqaa2ieoq67umpstqqklhad.onion/product-tag/vaccine/"
+        },
+        {
+          "name": "Steriod King",
+          "type": "url",
+          "url": "http://skingykcpkkenvhhlg5vdsitvdoefkbo7frfiv3gscue66ynvuqq7bid.onion/?product=moderna-covid-19-vaccine"
+        },
+        {
+          "name": "Big Pluggie Market",
+          "type": "url",
+          "url": "http://bxp6oh6lpmj3dzxwr5wjeezr5xlsm4cum5mbuzv3diw2ykpzqutmlcad.onion/shop/buy-10-moderna-mrna-1273-covid-19-vaccine-2000/"
+        },
+        {
+          "name": "WainPharma",
+          "type": "url",
+          "url": "http://gukm6235mhmwbauv3xtfz3llqm22uaaac57pmqnauxtqr67otxymx7yd.onion/shop/covid-19/astrazeneca-covid-19-vaccine/astrazeneca-covid-19-vaccine-10-shots/"
+        },
+        {
+          "name": "Dbay",
+          "type": "url",
+          "url": "http://dbay4btfm54y3e3i4genrwd6tnt5rsyhla3j3ml5rwaqre7k37hglcid.onion/product/astrazeneca-vaccine-covid-19/"
+        },
+        {
+          "name": "Covid-19 Vaccine",
+          "type": "url",
+          "url": "http://piq2xfs5gkfk2lok5a4bwszsgqdxlekghhd2mjcldpq2loxgqg3tyaid.onion/"
+        },
+        {
+          "name": "Phills Shop",
+          "type": "url",
+          "url": "http://jx4lzyctp4h6yyj4bc2qemm3ce4ssxo3ftsu3ajhzdc2tipzz4gpe5id.onion/shop/covid-19/pfizer-biontech-covid-19-vaccine/"
+        },
+        {
+          "name": "MillHill Covid-19 Pharam",
+          "type": "url",
+          "url": "http://vqyn7nsgb237ju7eqfa7zqog2xwh266fr5aird2cnetiimdpb6dkhdqd.onion/tag/order-sinopharm-covid-19-vaccine/"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "Step 3: Information Processing",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Some Processing Tools",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Maltego",
+          "type": "url",
+          "url": "https://www.maltego.com/"
+        },
+        {
+          "name": "Recorded Future",
+          "type": "url",
+          "url": "https://www.recordedfuture.com/"
+        },
+        {
+          "name": "OSINT Combine Data Visualization",
+          "type": "url",
+          "url": "https://osintcombine.tools/"
+        },
+        {
+          "name": "CheckUsernames",
+          "type": "url",
+          "url": "https://checkusernames.com/"
+        }
+      ]
+    },
+    {
+      "name": "Options for Checking Information",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Google Dork",
+          "type": "url",
+          "url": "https://www.maltego.com/blog/using-google-dorks-to-support-your-open-source-intelligence-investigations/"
+        },
+        {
+          "name": "Reddit Post Analyser",
+          "type": "url",
+          "url": "https://www.osintcombine.com/reddit-post-analyser"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "Step 4: Investigative Tools",
+  "type": "folder",
+  "children": [
+    {
+      "name": "SANS Google Dorks Cheat Sheet",
+      "type": "url",
+      "url": "https://www.sans.org/security-resources/GoogleCheatSheet.pdf"
+    },
+    {
+      "name": "Search.org ISP Resource List",
+      "type": "url",
+      "url": "https://www.search.org/resources/isp-list/#participants-list-1"
+    },
+    {
+      "name": "IACA Dark Web Investigation Support",
+      "type": "url",
+      "url": "https://iaca-darkweb-tools.com/"
+    },
+    {
+      "name": "KnowEm",
+      "type": "url",
+      "url": "https://knowem.com/"
+    },
+    {
+      "name": "Have I been Pawned",
+      "type": "url",
+      "url": "https://haveibeenpwned.com/"
+    },
+    {
+      "name": "DeHashed",
+      "type": "url",
+      "url": "https://dehashed.com/"
+    },
+    {
+      "name": "Email Address Verify",
+      "type": "url",
+      "url": "https://verify-email.org/"
+    },
+    {
+      "name": "Domain Name Search",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Whois Lookup",
+          "type": "url",
+          "url": "https://whois.domaintools.com/"
+        },
+        {
+          "name": "ViewDNS.info",
+          "type": "url",
+          "url": "https://viewdns.info/"
+        },
+        {
+          "name": "ARIN",
+          "type": "url",
+          "url": "https://whois.arin.net/ui/advanced.jsp"
+        },
+        {
+          "name": "Website Analyitcs",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Amazon Alexa Site Stats",
+              "type": "url",
+              "url": "https://www.alexa.com/siteinfo"
             }
           ]
         }
       ]
     }
   ]
+}
+]
 }
