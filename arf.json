@@ -33,6 +33,22 @@
       "type": "folder",
       "children": [
         {
+          "name": "Keywords to Search and Google Dorking",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Have Keywords to Search. Eg. Fake Covid-19 Vaccines",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "Use Google Dorking",
+              "type": "url",
+              "url": "https://cdn-cybersecurity.att.com/blog-content/GoogleHackingCheatSheet.pdf"
+            }
+          ]
+        },
+        {
           "name": "Search Engines",
           "type": "folder",
           "children": [
