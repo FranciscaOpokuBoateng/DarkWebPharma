@@ -230,11 +230,6 @@
           "type": "folder",
           "children": [
             {
-              "name": "Google Dork",
-              "type": "url",
-              "url": "https://www.maltego.com/blog/using-google-dorks-to-support-your-open-source-intelligence-investigations/"
-            },
-            {
               "name": "Reddit Post Analyser",
               "type": "url",
               "url": "https://www.osintcombine.com/reddit-post-analyser"
@@ -247,11 +242,6 @@
       "name": "Step 4: Investigative Tools",
       "type": "folder",
       "children": [
-        {
-          "name": "SANS Google Dorks Cheat Sheet",
-          "type": "url",
-          "url": "https://www.sans.org/security-resources/GoogleCheatSheet.pdf"
-        },
         {
           "name": "Search.org ISP Resource List",
           "type": "url",
