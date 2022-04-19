@@ -226,15 +226,9 @@
           ]
         },
         {
-          "name": "Options for Checking Information",
-          "type": "folder",
-          "children": [
-            {
-              "name": "Reddit Post Analyser",
-              "type": "url",
-              "url": "https://www.osintcombine.com/reddit-post-analyser"
-            }
-          ]
+          "name": "Reddit Post Analyser",
+          "type": "url",
+          "url": "https://www.osintcombine.com/reddit-post-analyser"
         }
       ]
     },
